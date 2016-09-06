@@ -1,4 +1,4 @@
-oro_system_configuration:
+system_configuration:
     groups:
         sidebar_settings:
             title:       oro.sidebar.system_configuration.groups.sidebar_settings.title
